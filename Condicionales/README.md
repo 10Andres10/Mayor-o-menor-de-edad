@@ -1,0 +1,1 @@
+### Ejercicio de condicionales que tiene como función verificar si quien ingresa su edad es mayo o menor de edad.
